@@ -26,11 +26,13 @@ The bot:
 ```bash
 pip install playwright
 playwright install
+```
 
 2️⃣ **Run the script**
 
 ```bash
 python playwright_demo_bot.py
+```
 
 3️⃣ **Check the result**
 After running, you’ll see:
